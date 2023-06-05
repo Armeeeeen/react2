@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+#app-table{
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  border-collapse: collapse;
+  }
+  
